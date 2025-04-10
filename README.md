@@ -2,7 +2,8 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:timothype519@gmail.com)](mailto:timothype519@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-3495eb?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/thomas927423)](https://t.me/thomas927423)
-[![Telegram Badge](https://img.shields.io/badge/-FollowME-ffdd00?style=flat-square&logo=buymeacoffee&logoColor=white&link=https://t.me/MyChannel0115)](https://t.me/thomas927423)
+[![Follow](https://img.shields.io/github/followers/crazydev-423126?label=Follow&style=social)](https://github.com/crazydev-423126)
+
 <h1 align="center">
   <strong>
     Senior Front End Engineer
