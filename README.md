@@ -118,22 +118,22 @@ latest trends and advancements.
       <tbody align="center">
         <tr>
           <td style="border: 1px solid">
-            <a href="https://.outcraft.agency/">
+            <a href="https://advida.com/">
               <img src="./assests/WEB/advida.png" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
-            <a href="https://polisport.com/">
+            <a href="https://hashdirectors.com/">
               <img src="./assests/WEB/hash.png" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
-            <a href="https://ryan.com/">
+            <a href="https://sparrowcard.com/">
               <img src="./assests/WEB/sparrow.png" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
-            <a href="https://glassbororentals.com/en/">
+            <a href="https://www.fiverr.com/">
               <img src="./assests/WEB/fiverr.png" width="200">
             </a>
           </td>
@@ -152,22 +152,22 @@ latest trends and advancements.
       <tbody>
         <tr>
           <td style="border: 1px solid">
-            <a href="https://appics.com/">
+            <a href="https://www.mybikeplan.ch/">
               <img src="./assests/WEB/mybike.png" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
-            <a href="https://bumble.com/">
+            <a href="https://roomster.com/">
               <img src="./assests/WEB/room.png" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
-            <a href="https://payeer.com/en/">
+            <a href="https://zenduit.com/">
               <img src="./assests/WEB/zen.png" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
-            <a href="https://singlife.com/en">
+            <a href="https://www.rockwelltrading.com/">
               <img src="./assests/WEB/rock.png" width="200">
             </a>
           </td>
@@ -179,29 +179,23 @@ latest trends and advancements.
         <tr align="center">
           <th align="center" style="border: 1px solid">15sof</th>
           <th align="center" style="border: 1px solid">Zid</th>
-          <th align="center" style="border: 1px solid">Zenduit</th>
           <th align="center" style="border: 1px solid">Kinlia</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td style="border: 1px solid">
-            <a href="https://appics.com/">
+            <a href="https://15sof.com/">
               <img src="./assests/WEB/sof.jpg" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
-            <a href="https://bumble.com/">
-              <img src="./assests/WEB/room.png" width="200">
-            </a>
-          </td>
-          <td style="border: 1px solid">
-            <a href="https://payeer.com/en/">
+            <a href="https://zid.sa/">
               <img src="./assests/WEB/zid.png" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
-            <a href="https://singlife.com/en">
+            <a href="https://www.kinlia.com/">
               <img src="./assests/WEB/kinlia.jpg" width="200">
             </a>
           </td>
@@ -220,22 +214,22 @@ latest trends and advancements.
       <tbody>
         <tr>
           <td style="border: 1px solid">
-            <a href="https://appics.com/">
+            <a href="https://en.otoqi.com/">
               <img src="./assests/WEB/otoqi.png" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
-            <a href="https://bumble.com/">
+            <a href="https://sendy.io/">
               <img src="./assests/WEB/sendy.jpg" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
-            <a href="https://payeer.com/en/">
+            <a href="https://hd5.homodea.com/">
               <img src="./assests/WEB/homodea.jpg" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
-            <a href="https://singlife.com/en">
+            <a href="https://www.uprightpose.com/">
               <img src="./assests/WEB/upright.png" width="200">
             </a>
           </td>
@@ -252,12 +246,12 @@ latest trends and advancements.
       <tbody>
         <tr>
           <td style="border: 1px solid">
-            <a href="https://appics.com/">
+            <a href="https://www.superchat.com/">
               <img src="./assests/WEB/super.png" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
-            <a href="https://bumble.com/">
+            <a href="https://idme911.com/">
               <img src="./assests/WEB/idme.png" width="200">
             </a>
           </td>
