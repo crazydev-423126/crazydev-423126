@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:timothype519@gmail.com)](mailto:timothype519@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-3495eb?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/thomas927423)](https://t.me/thomas927423)
-[![Follow](https://img.shields.io/github/followers/crazydev-423126?label=Follow&style=social)](https://github.com/crazydev-423126)
+[![Follow](https://img.shields.io/github/followers/hope-423126?label=Follow&style=social)](https://github.com/hope-423126)
 
 <h1 align="center">
   <strong>
@@ -29,7 +29,7 @@ latest trends and advancements.
 
 <h3><strong>📊 Stats</strong></h3>
       
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazydev-423126&hide=TeX&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hope-423126&hide=TeX&layout=compact&theme=tokyonight)
 
 <h3><strong>🥼 Expertise</strong></h3>
   <ul>
